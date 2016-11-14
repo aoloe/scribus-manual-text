@@ -26,3 +26,17 @@ pour l'italique, c'est semblable (même si il y a moins de variations).
 donc, scribus donne accès à des options bien plus variés et c'est plus difficile de les cacher derrière deux boutons. mais ça pourrait arriver un jour...
 
 tosca, 11.11.2016 on linuxgraphics.org: "Scribus est un vrai logiciel de PAO, destiné à produire des documents imprimés de qualité professionnelle. Il ne bidouille pas les polices, et n'utilise que les fontes et styles qui existent réellement, sans tenter de les adapter."
+
+## Bullet and numbered lists
+
+Starting from Scribus 1.5.2 there is a "real" bullet list functionality.
+
+In 1.4, you can manually create bullet lists:
+
+- crée un style appelé "liste",
+- défini un retrait à gauche de 5 mm
+- défini un retrait à gauche de la première ligne de -5 mm
+- ajoute un tabulateur aligné à gauche aux 5 mm
+- à chaque fois que tu veux ajouter une ligne dans la liste, il te faudra ajouter un n-dash (un tiret moyennement large);
+
+4 ou 5 mm sont une bonne mesure pour de nombreuses listes... dans certains cas il faudra adapter la mesure...
