@@ -40,3 +40,18 @@ In 1.4, you can manually create bullet lists:
 - à chaque fois que tu veux ajouter une ligne dans la liste, il te faudra ajouter un n-dash (un tiret moyennement large);
 
 4 ou 5 mm sont une bonne mesure pour de nombreuses listes... dans certains cas il faudra adapter la mesure...
+
+## Inserting special characters
+
+- dashes
+- special spaces
+- pick a special character (GarryP, forums, 12.4.2017):
+  - double-click the text and place the cursor where you want the square to be inserted;
+  - choose menu "Insert -> Glyph";
+  - press the "Show/Hide Enhanced Palette" button (looks like a table);
+  - in the "Character Class" drop-down (top-right) choose "Geometric Shapes";
+  - double-click the square glyph;
+  - press the Insert button;
+  - close the "Enhanced Character Palette" dialog;
+  - close the "Character Palette" dialog.
+  For other symbols just choose a different character class and double-click on the symbol you need.
