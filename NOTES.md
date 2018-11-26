@@ -55,3 +55,17 @@ In 1.4, you can manually create bullet lists:
   - close the "Enhanced Character Palette" dialog;
   - close the "Character Palette" dialog.
   For other symbols just choose a different character class and double-click on the symbol you need.
+
+## Tabulators
+
+You can also directly define the tabulator
+
+- Text Properties palette
+- Section Column & Text Distances
+
+## Dot tabbed lists
+
+Mostly for for Table of contents...
+
+The best way is to define a new Paragraph Style with a left alinged tabulator, with a dot as the fill char.
+
