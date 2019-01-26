@@ -69,3 +69,16 @@ Mostly for for Table of contents...
 
 The best way is to define a new Paragraph Style with a left alinged tabulator, with a dot as the fill char.
 
+## Hyphenation
+
+Jean writes in the bug tracker:
+
+1) for future documents, check document language in File > Preferences > Document Setup > Language
+2) for existing documents:
+    - check document language in File > Document Setup > Document Setup > Language
+    - check language defined in Edit > Styles > Character Styles > Default Character Styles > Language
+    - do the same for other character styles
+    - same for Paragraph Styles Edit > Styles > Paragraph Styles > Character Style > Language
+    - do the same for other paragraph styles
+
+Finally for hyphenation to be enabled, you have to select explicitly text frames on which want to apply it
