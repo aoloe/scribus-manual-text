@@ -82,3 +82,14 @@ Jean writes in the bug tracker:
     - do the same for other paragraph styles
 
 Finally for hyphenation to be enabled, you have to select explicitly text frames on which want to apply it
+
+## The Story Editor
+
+If you don't have strong reasons for using the story editor, you're supposed to edit your text and apply the styles in the frames.
+
+The Story Editor used to be an important tool in Scribus, but it has not been so for over a decade now.  
+Sadly, many beginners tutorials have not caught up, and still present the story editor in the first few steps.
+It's a power tool (in bad shape) now.
+
+Indeed, the Story Editor is still usable for some specific tasks that needs it (like editing a short heavily rotated text frame) but is mostly useless for its original goal.  
+There are plans for rewriting it, with a new purpose. But it seems that nobody has a urgent need for it.
